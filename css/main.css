@@ -1,9 +1,11 @@
 #header {
-
+	background: red;
 }
 
 #title {
-
+	font-family: 'Sansita', sans-serif;
+	text-align: center;
+	color: white;
 }
 
 .pres {
@@ -11,15 +13,9 @@
 	width: 200px;
 }
 
-#obama {
-
+.desc {
+	height: 50px;
+	width: 200px;
 }
 
-#lincoln {
-
-}
-
-#fdr {
-
-}
 
